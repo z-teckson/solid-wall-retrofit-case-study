@@ -1,0 +1,9 @@
+Material,Thickness (mm),Conductivity (W/mK),Density (kg/m³),Approx. Cost (£/m²),Notes
+Expanded Polystyrene (EPS),200,0.035,20,45,White EPS, graphite‑grey EPS has λ ≈ 0.031
+Mineral Wool (Rockwool),200,0.035,45,55,Non‑combustible, vapour‑open
+Polyisocyanurate (PIR),150,0.022,35,60,Higher R‑value per thickness, flammable
+Wood Fibre Board,220,0.038,160,85,Vapour‑open, hygroscopic, good for solid walls
+Existing Brick,105,0.84,1800,–,Original wall layer
+Existing Lime Plaster,12,0.70,1600,–,Original internal finish
+Airtightness Membrane,0.5,–,–,8,Vapour‑control layer (Intello Plus etc.)
+Render/Cladding,20,0.70,–,25,External finish (optional)
